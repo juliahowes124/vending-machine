@@ -1,0 +1,7 @@
+.Nav a {
+    color: white;
+    background-color: green;
+   }
+.Nav a.active {
+    color: black;
+}
